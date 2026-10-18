@@ -1,0 +1,31 @@
+{
+  "name": "usdt-rub-js",
+  "version": "1.0.0",
+  "description": "Estimate how many rubles you actually get for USDT via P2P, an exchanger, or your own spread. Zero dependencies, runs via npx straight from GitHub.",
+  "bin": {
+    "usdt-rub": "./index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "license": "MIT",
+  "author": "kleogeos",
+  "keywords": [
+    "freelance",
+    "usdt",
+    "rub",
+    "crypto",
+    "cli",
+    "zero-dependencies",
+    "npx"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kleogeos/usdt-rub-js"
+  },
+  "homepage": "https://kleogeos.github.io/freelancer-tools/"
+}
